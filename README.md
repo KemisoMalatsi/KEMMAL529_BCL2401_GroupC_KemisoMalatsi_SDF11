@@ -34,5 +34,4 @@ Used Flexbox for desining a responsive footer with social media icons.
 [LOOM Video]()
 
 # Presentation Link:
-[Presentation](
-https://docs.google.com/presentation/d/1XQFBtGywQKNJL_RgzkCoQ25wZeuIFGKEoyrxJu7GtN4/edit?usp=sharing)
+[Presentation](https://docs.google.com/presentation/d/1XQFBtGywQKNJL_RgzkCoQ25wZeuIFGKEoyrxJu7GtN4/edit?usp=sharing)
